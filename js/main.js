@@ -39,10 +39,10 @@ $('.menu__toggler').click(function(){
 
   $(".home-slider-inner").slick({
     autoplay: true,
-    autoplayspeed: 5000,
+    autoplayspeed: 7000,
     dots: false,
     fade: true,
-    speed: 2000,
+    speed: 4000,
     infinite: true,
     cssEase: 'ease-in-out',
     arrows: false,
